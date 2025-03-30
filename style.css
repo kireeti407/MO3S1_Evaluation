@@ -1,0 +1,22 @@
+
+#im{
+    display: flex;
+    flex-direction: column;
+}
+#btt{
+    width: 100px;
+    height: 50px;
+    color: black;
+    background-color: white;
+}
+#btt:hover{
+    background-color: black;
+}
+
+h1:hover{
+    color: green;
+}
+a{
+    text-decoration: None;
+    color:white
+}
